@@ -41,6 +41,7 @@ function sortearAmigo() {
     
         document.getElementById("listaAmigos").style.display = "none";
         console.log(amigos); 
+        console.log("Challenge completed");
     }
     
 
